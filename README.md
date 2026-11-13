@@ -18,6 +18,7 @@ and **code** checks every claim against an exact quote from that source.
 [![Tailwind](https://img.shields.io/badge/Tailwind-4-06B6D4?logo=tailwindcss&logoColor=white)](#-tech-stack)
 [![Postgres](https://img.shields.io/badge/Neon-Postgres-4169E1?logo=postgresql&logoColor=white)](#-tech-stack)
 [![Tests](https://img.shields.io/badge/tests-237%20passing-2f9e6b)](#-testing)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **[Live demo](https://apollo-research.onrender.com)** · **[Agentic design](#-agentic-ai-design)** · **[Architecture](#-architecture)** · **[How verification works](#-claim-verification-the-core-idea)** · **[Run it locally](#-run-it-locally)**
 
@@ -472,6 +473,10 @@ are in [`docs/DEPLOY.md`](docs/DEPLOY.md).
 - Source credibility signals beyond the domain heuristic.
 - Longer videos by transcribing in parts.
 - Team workspaces with shared, commentable reports.
+
+## 📄 License
+
+Released under the [MIT License](LICENSE).
 
 ---
 
